@@ -1,0 +1,12 @@
+
+�
+java:S11922"aDefine a constant instead of duplicating this literal "Usuário seguido não encontrado" 3 times.b 837b2a09b2e5f180baacbb1d0f883d7eh
+�
+java:S1192-"YDefine a constant instead of duplicating this literal "Usuário não encontrado" 4 times.b 4026478ad85998af16a61e65e5d011b9h
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+v
+java:S6813 "BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+^	java:S106X"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh

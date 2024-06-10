@@ -1,0 +1,5 @@
+
+y	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.b 15452a9b0f2356c3dabe720a67728b3dh
+ê
+java:S1488("\Immediately return this expression instead of assigning it to the temporary variable "auth".b e1142fde89632211f74fe4a46d135f33h
+^	java:S106$"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh

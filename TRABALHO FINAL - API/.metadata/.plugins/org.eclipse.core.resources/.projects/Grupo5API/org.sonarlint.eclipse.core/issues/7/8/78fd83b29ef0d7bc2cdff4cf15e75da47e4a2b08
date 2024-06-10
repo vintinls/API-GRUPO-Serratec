@@ -1,0 +1,15 @@
+
+f
+java:S1611("2Remove the parentheses around the "cors" parameterb 84c40473414caf2ed4a7b1283e48bbf4h
+`
+java:S16024",Remove useless curly braces around statementb f95b70fdc3088560732a5ac135644506h
+v
+java:S6813""BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+†
+java:S3305 "RInject this field value directly into "filterChain", the only method that uses it.b 010ac1b919b408103fdf7e3c0ac41c10h
+†
+java:S3305#"RInject this field value directly into "filterChain", the only method that uses it.b e1500a3aa0bf730d2da616dc30545e94h
+z
+java:S1192."FDefine a constant instead of duplicating this literal "ADMIN" 4 times.b af9b0699fd621f393bd10465650e7da7h

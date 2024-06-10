@@ -1,0 +1,11 @@
+
+Ö
+java:S1130;"¡Remove the declaration of thrown exception 'org.springframework.data.crossstore.ChangeSetPersister$NotFoundException', as it cannot be thrown from method's body.b d173a20dec1d8db9b893522e3884f509h
+v
+java:S6813#"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+Ö
+java:S1130S"¡Remove the declaration of thrown exception 'org.springframework.data.crossstore.ChangeSetPersister$NotFoundException', as it cannot be thrown from method's body.b d173a20dec1d8db9b893522e3884f509h
+Ö
+java:S1130L"¡Remove the declaration of thrown exception 'org.springframework.data.crossstore.ChangeSetPersister$NotFoundException', as it cannot be thrown from method's body.b d173a20dec1d8db9b893522e3884f509h
+v
+java:S6813 "BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h

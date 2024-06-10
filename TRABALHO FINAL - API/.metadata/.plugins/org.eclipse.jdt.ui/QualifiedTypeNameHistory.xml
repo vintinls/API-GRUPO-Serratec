@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.serratec.backend.redesocial.repository.UsuarioRepository"/>
+    <fullyQualifiedTypeName name="org.serratec.backend.redesocial.repository.PostRepository"/>
+    <fullyQualifiedTypeName name="org.serratec.backend.redesocial.model.Post"/>
+    <fullyQualifiedTypeName name="org.serratec.backend.redesocial.exception.NotFoundException"/>
+</qualifiedTypeNameHistroy>
